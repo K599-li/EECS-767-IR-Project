@@ -1,0 +1,10 @@
+E02	OpenAI
+I01	AI regulation
+S01	how to detect AI writing
+E03	GPT-4
+I02	AI bias
+S02	AI replace jobs
+E04	DALL-E
+I03	AI safety
+S03	how to use ChatGPT
+E05	Stable Diffusion

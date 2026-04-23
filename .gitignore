@@ -1,0 +1,17 @@
+# Pyserini Lucene indexes (binary, platform-dependent, can be rebuilt in 5s)
+indexes/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db

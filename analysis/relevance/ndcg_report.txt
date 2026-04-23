@@ -1,0 +1,7 @@
+nDCG@10 sanity check report
+========================================
+
+post: mean nDCG@10 = 0.9808 (n=10 queries)
+pre: mean nDCG@10 = 0.8727 (n=10 queries)
+
+Per-query values are in ndcg_summary.csv
